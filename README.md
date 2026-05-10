@@ -1,4 +1,4 @@
-# Claire AI Minecraft Bot
+# Claire AI Minecraft Bot - made in 2023
 
 An AI-powered Minecraft bot built using Mineflayer and Google Gemini AI.
 
